@@ -1,0 +1,7 @@
+{
+  "name": "xbim-browser",
+  "version": "0.1.41",
+  "main": "xbim-browser.js",
+  "typings": "xbim-browser.d.ts",
+  "repository": "https://github.com/xBimTeam/XbimWebUI"
+}

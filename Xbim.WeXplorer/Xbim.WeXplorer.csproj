@@ -178,6 +178,7 @@
     <Content Include="Examples\WexBimStreamTest\wexbimtest.html" />
     <Content Include="Libs\gl-matrix\LICENSE.md" />
     <Content Include="tests\data\network.wexbim" />
+    <Content Include="prepare_npm_bundles.ps1" />
     <None Include="Tutorials\1_Hello_building.md" />
     <Content Include="Examples\SimpleWexbimViewer\index.html" />
     <Content Include="Viewer\shaders\fragment_shader.c" />

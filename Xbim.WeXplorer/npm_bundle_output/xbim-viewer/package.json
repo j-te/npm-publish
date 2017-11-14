@@ -1,0 +1,7 @@
+{
+  "name": "xbim-viewer",
+  "version": "0.1.41",
+  "main": "xbim-viewer.js",
+  "typings": "xbim-viewer.d.ts",
+  "repository": "https://github.com/xBimTeam/XbimWebUI"
+}
