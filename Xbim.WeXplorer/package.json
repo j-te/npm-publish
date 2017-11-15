@@ -22,7 +22,9 @@
   ],
   "scripts": {
     "jsdoc": "jsdoc -c jsdoc.config.json",
-    "tsc": "tsc", 
-    "webpack:dev": "SET NODE_ENV=development&& webpack"
+    "tsc": "tsc",
+    "webpack:dev": "SET NODE_ENV=development&& npm run webpack -d",
+    "webpack:prod": "SET NODE_ENV=production&& npm run webpack -p",
+    "build": "npm run jsdoc && npm run webpack:dev && npm run webpack:prod"
   }
 }

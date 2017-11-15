@@ -333,12 +333,10 @@
     </VisualStudio>
   </ProjectExtensions>
   <PropertyGroup>
-    <PostBuildEvent>cd "$(ProjectDir)"
-if $(ConfigurationName) == Release build_after.bat</PostBuildEvent>
+    <PostBuildEvent Condition=" '$(Configuration)' == 'Release' ">"$(ProjectDir)build_after.bat"</PostBuildEvent>
   </PropertyGroup>
   <PropertyGroup>
-    <PreBuildEvent>cd "$(ProjectDir)"
-build_before.bat</PreBuildEvent>
+    <PreBuildEvent>"$(ProjectDir)build_before.bat"</PreBuildEvent>
   </PropertyGroup>
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
