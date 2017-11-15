@@ -197,3 +197,4 @@ Xbim.WeXplorer/xbim-viewer.d.ts
 Xbim.WeXplorer/xbim-viewer.js
 Xbim.WeXplorer/Utilities
 Xbim.WeXplorer/Examples/**/*.js
+!nuget*.exe
