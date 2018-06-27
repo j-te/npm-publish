@@ -1,3 +1,22 @@
+This is a temporary build-ready fork from initially using:
+
+`git clone https://github.com/GeorgDangl/XbimWebUI.git -b feature/npm-publish /npm-publish`
+
+npm-publish
+=========
+- `./npm-publish` is the Project
+- `./npm-publish/Xbim.WeXplorer` is the npm Project path
+
+
+### 1: npm Project
+Use the following to build the JS files:
+
+`npm install && npm run tsc && xcopy /y Viewer\\browser\\xbim-browser.css Build\\ && npm run webpack:dev`
+
+### 2: Project
+Solution updated for VS2017, should run once node modules are installed and /Build files are created from #1
+
+
 XbimWebUI
 =========
 
