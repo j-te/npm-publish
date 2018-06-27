@@ -1,4 +1,4 @@
-This is a temporary build-ready fork from initially using:
+Forked from (unmerged) https://github.com/GeorgDangl/XbimWebUI/commits/feature/npm-publish
 
 `git clone https://github.com/GeorgDangl/XbimWebUI.git -b feature/npm-publish /npm-publish`
 
