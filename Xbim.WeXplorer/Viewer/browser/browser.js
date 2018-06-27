@@ -4,7 +4,7 @@ var visual_templates_1 = require("./visual-templates");
 var visual_model_1 = require("./visual-model");
 var cobieuk_utils_1 = require("./cobieuk-utils");
 var cobie_utils_1 = require("./cobie-utils");
-var Browser = (function () {
+var Browser = /** @class */ (function () {
     /**
     * This is the main class you need to use to render semantic structure of the building model
     *

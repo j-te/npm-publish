@@ -2,7 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 var binary_reader_1 = require("../binary-reader");
 var wexbim_mesh_1 = require("./wexbim-mesh");
-var WexBimHeader = (function () {
+var WexBimHeader = /** @class */ (function () {
     function WexBimHeader() {
         this.MagicNumber = 94132117;
         this.Version = 3; //modified to support regions correctly
@@ -26,7 +26,7 @@ var WexBimHeader = (function () {
     return WexBimHeader;
 }());
 exports.WexBimHeader = WexBimHeader;
-var WexBimRegion = (function () {
+var WexBimRegion = /** @class */ (function () {
     function WexBimRegion() {
         this.GeometryModels = new Array();
     }
@@ -63,7 +63,7 @@ var WexBimRegion = (function () {
     return WexBimRegion;
 }());
 exports.WexBimRegion = WexBimRegion;
-var WexBimStyle = (function () {
+var WexBimStyle = /** @class */ (function () {
     function WexBimStyle() {
     }
     WexBimStyle.ReadFromStream = function (reader) {
@@ -75,7 +75,7 @@ var WexBimStyle = (function () {
     return WexBimStyle;
 }());
 exports.WexBimStyle = WexBimStyle;
-var WexBimProduct = (function () {
+var WexBimProduct = /** @class */ (function () {
     function WexBimProduct() {
     }
     WexBimProduct.ReadFromStream = function (reader) {
@@ -88,7 +88,7 @@ var WexBimProduct = (function () {
     return WexBimProduct;
 }());
 exports.WexBimProduct = WexBimProduct;
-var WexBimShapeSingleInstance = (function () {
+var WexBimShapeSingleInstance = /** @class */ (function () {
     function WexBimShapeSingleInstance() {
         this.IsSingleInstance = true;
         this.Transformation = null;
@@ -108,7 +108,7 @@ exports.WexBimShapeSingleInstance = WexBimShapeSingleInstance;
 /// <summary>
 /// Special kind of shape header for multiple instance shapes which has a transform
 /// </summary>
-var WexBimShapeMultiInstance = (function () {
+var WexBimShapeMultiInstance = /** @class */ (function () {
     function WexBimShapeMultiInstance() {
         this.IsSingleInstance = false;
         this.Transformation = null;
@@ -127,7 +127,7 @@ var WexBimShapeMultiInstance = (function () {
     return WexBimShapeMultiInstance;
 }());
 exports.WexBimShapeMultiInstance = WexBimShapeMultiInstance;
-var WexBimGeometryModel = (function () {
+var WexBimGeometryModel = /** @class */ (function () {
     function WexBimGeometryModel() {
         this.Shapes = new Array();
     }
@@ -180,7 +180,7 @@ var WexBimGeometryModel = (function () {
     return WexBimGeometryModel;
 }());
 exports.WexBimGeometryModel = WexBimGeometryModel;
-var WexBimStream = (function () {
+var WexBimStream = /** @class */ (function () {
     function WexBimStream() {
         this.Regions = new Array();
         this.Styles = new Array();

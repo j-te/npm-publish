@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var xVisualEntity = (function () {
+var xVisualEntity = /** @class */ (function () {
     /**
     * Visual model containing entity data
     *

@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var VisualModel = (function () {
+var VisualModel = /** @class */ (function () {
     /**
     * Visual model containing preprocessed COBie data in more uniform form usable for templating and rendering
     *

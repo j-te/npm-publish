@@ -5,7 +5,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 * @constructor
 * @classdesc Visual model describing named sets of assignments
 */
-var xVisualAssignmentSet = (function () {
+var xVisualAssignmentSet = /** @class */ (function () {
     function xVisualAssignmentSet() {
         /** @member {string} xVisualAssignmentSet#name */
         this.name = '';

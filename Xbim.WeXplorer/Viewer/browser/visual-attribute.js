@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var xVisualAttribute = (function () {
+var xVisualAttribute = /** @class */ (function () {
     /**
     * @name xVisualAttribute
     * @constructor

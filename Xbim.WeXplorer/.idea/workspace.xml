@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33bfb507-0d53-4b3b-b0d3-e09981751e29" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>viewer.js</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Projects\npm-publish\Xbim.WeXplorer</dir>
+    </dirStrings>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/npm_bundle_output/xbim-browser/package.json" />
+      <path value="$PROJECT_DIR$/npm_bundle_output/xbim-viewer/package.json" />
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Bitwise operation issuesJavaScript</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Xbim.WeXplorer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Xbim.WeXplorer" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\jacob.tevendale\AppData\Roaming\npm\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33bfb507-0d53-4b3b-b0d3-e09981751e29" name="Default" comment="" />
+      <created>1530088677981</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530088677981</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.2739872" side_tool="true" visible="true" weight="0.49322212" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.72601277" visible="true" weight="0.49322212" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TypeScript" order="8" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Examples/WexBimStreamTest/wexbimtest.js" />
+        <option value="$PROJECT_DIR$/Examples/WexBimStreamTest/wexbimtest.d.ts" />
+        <option value="$PROJECT_DIR$/Examples/TsModulesExample/index.js" />
+        <option value="$PROJECT_DIR$/Examples/TsModulesExample/index.d.ts" />
+        <option value="$PROJECT_DIR$/Examples/TsSingleModule/index.d.ts" />
+        <option value="$PROJECT_DIR$/Viewer/workers/geometry-loader.js" />
+        <option value="$PROJECT_DIR$/Viewer/workers/geometry-loader.d.ts" />
+        <option value="$PROJECT_DIR$/Viewer/shaders/shaders.js" />
+        <option value="$PROJECT_DIR$/Viewer/shaders/shaders.d.ts" />
+        <option value="$PROJECT_DIR$/Viewer/plugins/NavigationHome/navigation-home.js" />
+        <option value="$PROJECT_DIR$/Viewer/plugins/NavigationHome/navigation-home.d.ts" />
+        <option value="$PROJECT_DIR$/Viewer/plugins/NavigationHome/navigation-home-textures.js" />
+        <option value="$PROJECT_DIR$/Viewer/plugins/NavigationHome/navigation-home-textures.d.ts" />
+        <option value="$PROJECT_DIR$/Viewer/plugins/NavigationCube/navigation-cube-shaders.js" />
+        <option value="$PROJECT_DIR$/Viewer/plugins/NavigationCube/navigation-cube-shaders.d.ts" />
+        <option value="$PROJECT_DIR$/Viewer/plugins/NavigationCube/navigation-cube.js" />
+        <option value="$PROJECT_DIR$/Viewer/plugins/NavigationCube/navigation-cube.d.ts" />
+        <option value="$PROJECT_DIR$/Viewer/plugins/NavigationCube/navigation-cube-textures.js" />
+        <option value="$PROJECT_DIR$/Viewer/plugins/NavigationCube/navigation-cube-textures.d.ts" />
+        <option value="$PROJECT_DIR$/Viewer/browser/visual-model.js" />
+        <option value="$PROJECT_DIR$/Viewer/browser/visual-model.d.ts" />
+        <option value="$PROJECT_DIR$/Viewer/browser/browser.js" />
+        <option value="$PROJECT_DIR$/Viewer/browser/browser.d.ts" />
+        <option value="$PROJECT_DIR$/Viewer/browser/cobieuk-utils.js" />
+        <option value="$PROJECT_DIR$/Viewer/browser/cobieuk-utils.d.ts" />
+        <option value="$PROJECT_DIR$/Viewer/browser/visual-templates.js" />
+        <option value="$PROJECT_DIR$/Viewer/browser/visual-templates.d.ts" />
+        <option value="$PROJECT_DIR$/Viewer/browser/visual-assignment-set.js" />
+        <option value="$PROJECT_DIR$/Viewer/browser/visual-assignment-set.d.ts" />
+        <option value="$PROJECT_DIR$/Viewer/browser/attribute-dictionary.js" />
+        <option value="$PROJECT_DIR$/Viewer/browser/attribute-dictionary.d.ts" />
+        <option value="$PROJECT_DIR$/Viewer/browser/visual-entity.js" />
+        <option value="$PROJECT_DIR$/Viewer/browser/visual-entity.d.ts" />
+        <option value="$PROJECT_DIR$/Viewer/browser/visual-property.js" />
+        <option value="$PROJECT_DIR$/Viewer/browser/visual-property.d.ts" />
+        <option value="$PROJECT_DIR$/Viewer/browser/cobie-utils.js" />
+        <option value="$PROJECT_DIR$/Viewer/browser/cobie-utils.d.ts" />
+        <option value="$PROJECT_DIR$/Viewer/browser/visual-attribute.js" />
+        <option value="$PROJECT_DIR$/Viewer/browser/visual-attribute.d.ts" />
+        <option value="$PROJECT_DIR$/Viewer/stream/wexbim-stream.js" />
+        <option value="$PROJECT_DIR$/Viewer/stream/wexbim-stream.d.ts" />
+        <option value="$PROJECT_DIR$/Viewer/stream/wexbim-mesh.js" />
+        <option value="$PROJECT_DIR$/Viewer/stream/wexbim-mesh.d.ts" />
+        <option value="$PROJECT_DIR$/Viewer/common/dictionary.js" />
+        <option value="$PROJECT_DIR$/Viewer/common/dictionary.d.ts" />
+        <option value="$PROJECT_DIR$/Viewer/common/webgl-utils.d.ts" />
+        <option value="$PROJECT_DIR$/Viewer/scene/node-shape.js" />
+        <option value="$PROJECT_DIR$/Viewer/scene/node-shape.d.ts" />
+        <option value="$PROJECT_DIR$/Viewer/scene/node-product.js" />
+        <option value="$PROJECT_DIR$/Viewer/scene/node-product.d.ts" />
+        <option value="$PROJECT_DIR$/Viewer/scene/node-product-shape.js" />
+        <option value="$PROJECT_DIR$/Viewer/scene/node-product-shape.d.ts" />
+        <option value="$PROJECT_DIR$/Viewer/scene/node.js" />
+        <option value="$PROJECT_DIR$/Viewer/scene/node.d.ts" />
+        <option value="$PROJECT_DIR$/Viewer/product-type.js" />
+        <option value="$PROJECT_DIR$/Viewer/product-type.d.ts" />
+        <option value="$PROJECT_DIR$/Viewer/model-handle.js" />
+        <option value="$PROJECT_DIR$/Viewer/model-handle.d.ts" />
+        <option value="$PROJECT_DIR$/Viewer/state.js" />
+        <option value="$PROJECT_DIR$/Viewer/state.d.ts" />
+        <option value="$PROJECT_DIR$/Viewer/product-inheritance.js" />
+        <option value="$PROJECT_DIR$/Viewer/product-inheritance.d.ts" />
+        <option value="$PROJECT_DIR$/Viewer/xbim-shaders.js" />
+        <option value="$PROJECT_DIR$/Viewer/xbim-shaders.d.ts" />
+        <option value="$PROJECT_DIR$/Viewer/binary-reader.js" />
+        <option value="$PROJECT_DIR$/Viewer/binary-reader.d.ts" />
+        <option value="$PROJECT_DIR$/Viewer/triangulated-shape.js" />
+        <option value="$PROJECT_DIR$/Viewer/triangulated-shape.d.ts" />
+        <option value="$PROJECT_DIR$/Viewer/model-geometry.js" />
+        <option value="$PROJECT_DIR$/Viewer/model-geometry.d.ts" />
+        <option value="$PROJECT_DIR$/Viewer/viewer.d.ts" />
+        <option value="$PROJECT_DIR$/Viewer/viewer.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>

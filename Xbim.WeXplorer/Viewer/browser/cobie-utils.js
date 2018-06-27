@@ -6,7 +6,7 @@ var attribute_dictionary_1 = require("./attribute-dictionary");
 var visual_assignment_set_1 = require("./visual-assignment-set");
 var visual_attribute_1 = require("./visual-attribute");
 var visual_property_1 = require("./visual-property");
-var CobieUtils = (function () {
+var CobieUtils = /** @class */ (function () {
     function CobieUtils(lang, culture) {
         this.settings = {
             decimalPlaces: 4

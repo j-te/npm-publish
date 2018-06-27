@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var Node = (function () {
+var Node = /** @class */ (function () {
     function Node() {
         this.Type = NodeType.NOTDEFINED;
         this.Nodes = new Array();
